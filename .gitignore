@@ -1,0 +1,11 @@
+.gradle/
+.android/
+.build-cache/
+**/build/
+local.properties
+*.iml
+.idea/
+artifacts/
+app/libs/*.aar
+app/src/main/assets/kokoro/*
+app/src/main/assets/kitten/*

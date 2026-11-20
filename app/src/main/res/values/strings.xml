@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Better Narrator</string>
+    <string name="accessibility_description">When you enable automatic reading, Better Narrator performs your configured scroll swipe or page-turn tap after narration. It stops on pause or when you leave the reading app. It does not retrieve text through accessibility; text is recognized from the screen area you select.</string>
+</resources>

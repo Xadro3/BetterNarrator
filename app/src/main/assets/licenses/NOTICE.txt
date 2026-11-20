@@ -1,0 +1,30 @@
+Better Narrator offline speech
+
+KittenTTS Nano 0.8 (int8 ONNX)
+KittenML — Apache License 2.0
+https://huggingface.co/KittenML/kitten-tts-nano-0.8
+Converted model supplied by k2-fsa/sherpa-onnx; eight English voices.
+Kitten-Apache-2.0.txt contains the license from the checksum-pinned model archive.
+
+Kokoro v1.0 (82M), quantized ONNX conversion
+Model: hexgrad/Kokoro-82M — Apache License 2.0
+https://huggingface.co/hexgrad/Kokoro-82M
+Converted model and English lexicon supplied by k2-fsa/sherpa-onnx.
+https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+The model card acknowledges Koniwa (CC BY 3.0) and SIWIS (CC BY 4.0) training audio.
+Attribution details and dataset links are in the Kokoro model card above.
+
+sherpa-onnx v2.0.2
+Xiaomi Corporation and contributors (see upstream copyright notices)
+Apache License 2.0
+https://github.com/k2-fsa/sherpa-onnx/tree/v2.0.2
+This app uses the lexicon-based frontend. It does not bundle espeak-ng data.
+
+ONNX Runtime — Microsoft Corporation — MIT License
+https://github.com/microsoft/onnxruntime
+
+Kotlin standard library — JetBrains — Apache License 2.0
+https://github.com/JetBrains/kotlin
+
+Full upstream license texts are bundled alongside this notice in assets/licenses.
+Voice audio is synthesized locally. No account or paid voice API is used.
